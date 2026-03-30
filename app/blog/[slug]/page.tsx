@@ -13,6 +13,9 @@ import { blogImageMap } from "@/lib/blog-images";
 import { BlogContent } from "@/components/blog-content";
 import type { BlogPost } from "@/lib/schema";
 
+// Force dynamic rendering — fetch from Turso at request time, not build time
+export const dynamic = "force-dynamic";
+
 // Icons
 function Calendar({ className }: { className?: string }) {
   return (
@@ -112,15 +115,6 @@ export async function generateMetadata({
       images: imageUrl ? [imageUrl] : [],
     },
   };
-}
-
-export async function generateStaticParams() {
-  try {
-    const posts = await db.select({ slug: blogPosts.slug }).from(blogPosts);
-    return posts.map((p) => ({ slug: p.slug }));
-  } catch {
-    return [];
-  }
 }
 
 function ArticleCTA() {

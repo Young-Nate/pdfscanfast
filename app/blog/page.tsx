@@ -11,6 +11,9 @@ import { blogImageMap } from "@/lib/blog-images";
 import { desc } from "drizzle-orm";
 import type { BlogPost } from "@/lib/schema";
 
+// Force dynamic rendering — fetch from Turso at request time, not build time
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   title: "Blog — Tips, Guides & Insights",
   description:
