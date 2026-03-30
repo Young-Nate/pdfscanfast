@@ -76,28 +76,28 @@ const features = [
     title: "Scan Instantly",
     description:
       "Point your camera and capture any document in under 2 seconds. AI-powered edge detection and auto-capture make scanning effortless.",
-    image: "/images/hero-pdfscanfast.jpg",
+    image: "/images/screenshot-hero.jpg",
   },
   {
     icon: PenTool,
     title: "E-Sign Documents",
     description:
       "Sign any PDF electronically with multiple ink colors. Draw your signature or type it — legally valid and beautifully rendered.",
-    image: "/images/Screenshot-2-ESign-1774271933579-2.jpg",
+    image: "/images/screenshot-esign.jpg",
   },
   {
     icon: FolderOpen,
     title: "Stay Organized",
     description:
       "Smart folders automatically categorize your scans. Find any document instantly with OCR-powered full-text search.",
-    image: "/images/Screenshot-3-Organize-1774271937887-3.jpg",
+    image: "/images/screenshot-organize.jpg",
   },
   {
     icon: Shield,
     title: "Reliable & Secure",
     description:
       "Bank-level encryption protects every scan. Your documents are safe with cloud sync and automatic backups across all devices.",
-    image: "/images/Screenshot-5-Secure-1774272045392-5.jpg",
+    image: "/images/screenshot-secure.jpg",
   },
 ];
 
@@ -173,7 +173,7 @@ export default function LandingPage() {
               <div className="relative">
                 <div className="absolute -inset-4 bg-gradient-to-br from-primary/20 to-primary/5 rounded-[2rem] blur-2xl" />
                 <Image
-                  src="/images/hero-pdfscanfast.jpg"
+                  src="/images/screenshot-hero.jpg"
                   alt="PDF Scan Fast scanning a document"
                   width={280}
                   height={560}
@@ -239,7 +239,7 @@ export default function LandingPage() {
               <div className="relative">
                 <div className="absolute -inset-4 bg-gradient-to-br from-primary/15 to-transparent rounded-[2rem] blur-xl" />
                 <Image
-                  src="/images/Screenshot-4-Premium-1774272083897-4.jpg"
+                  src="/images/screenshot-signature.jpg"
                   alt="PDF Scan Fast Premium features"
                   width={260}
                   height={520}
