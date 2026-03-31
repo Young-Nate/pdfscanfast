@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     "scan documents",
     "mobile scanner",
   ],
-  metadataBase: new URL("https://pdfscanfast.vercel.app"),
+  metadataBase: new URL("https://pdfscanfast.com"),
   openGraph: {
     type: "website",
     siteName: "PDF Scan Fast",

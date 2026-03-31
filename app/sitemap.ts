@@ -3,7 +3,7 @@ import { db } from "@/lib/db";
 import { blogPosts } from "@/lib/schema";
 import { desc } from "drizzle-orm";
 
-const BASE_URL = "https://pdfscanfast.vercel.app";
+const BASE_URL = "https://pdfscanfast.com";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static pages
