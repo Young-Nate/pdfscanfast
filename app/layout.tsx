@@ -15,21 +15,21 @@ export const metadata: Metadata = {
     "scan documents",
     "mobile scanner",
   ],
-  metadataBase: new URL("https://pdfscanfast.com"),
+  metadataBase: new URL("https://pdfscanfast.vercel.app"),
   openGraph: {
     type: "website",
     siteName: "PDF Scan Fast",
     title: "PDF Scan Fast — Fastest PDF Scanner App",
     description:
       "Scan, sign, and organize documents in seconds — all from your phone.",
-    images: ["/images/hero-pdfscanfast.jpg"],
+    images: ["/images/screenshot-hero.jpg"],
   },
   twitter: {
     card: "summary_large_image",
     title: "PDF Scan Fast — Fastest PDF Scanner App",
     description:
       "Scan, sign, and organize documents in seconds — all from your phone.",
-    images: ["/images/hero-pdfscanfast.jpg"],
+    images: ["/images/screenshot-hero.jpg"],
   },
 };
 
