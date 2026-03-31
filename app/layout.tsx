@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     "scan documents",
     "mobile scanner",
   ],
+  verification: {
+    google: "zfiJ3OAXOdn3oKLyVU-K005sQXhLOZCHjs1rXTm2nXU",
+  },
   metadataBase: new URL("https://pdfscanfast.com"),
   openGraph: {
     type: "website",
