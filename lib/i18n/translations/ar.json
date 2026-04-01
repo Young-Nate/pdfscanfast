@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "أسرع ماسح ضوئي على الإطلاق. امسح ووقّع ونظّم مستنداتك في ثوانٍ — كل ذلك من هاتفك.",
-    "appStore": "تحميل من App Store",
-    "googlePlay": "احصل عليه من Google Play"
+    "appStore": "تحميل على iOS",
+    "googlePlay": "تحميل على Android"
   },
   "features": {
     "sectionTitle": "كل ما تحتاجه، لا شيء زائد",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "ابدأ المسح الضوئي مجاناً",
     "subtitle": "حمّل PDF Scan Fast اليوم واكتشف لماذا هو الطريقة الأسرع والأبسط لمسح وتوقيع وتنظيم مستنداتك.",
-    "appStore": "تحميل من App Store",
-    "googlePlay": "احصل عليه من Google Play"
+    "appStore": "تحميل على iOS",
+    "googlePlay": "تحميل على Android"
   },
   "articleCta": {
     "title": "جرّب PDF Scan Fast مجاناً",

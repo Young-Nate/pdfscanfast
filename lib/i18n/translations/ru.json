@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "Самый быстрый сканер в мире. Сканируйте, подписывайте и организовывайте документы за секунды — всё прямо со смартфона.",
-    "appStore": "Скачать в App Store",
-    "googlePlay": "Доступно в Google Play"
+    "appStore": "Скачать на iOS",
+    "googlePlay": "Скачать на Android"
   },
   "features": {
     "sectionTitle": "Всё необходимое, ничего лишнего",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "Начните сканировать бесплатно",
     "subtitle": "Скачайте PDF Scan Fast сегодня и откройте для себя самый быстрый и простой способ сканировать, подписывать и организовывать документы.",
-    "appStore": "Скачать в App Store",
-    "googlePlay": "Доступно в Google Play"
+    "appStore": "Скачать на iOS",
+    "googlePlay": "Скачать на Android"
   },
   "articleCta": {
     "title": "Попробуйте PDF Scan Fast бесплатно",

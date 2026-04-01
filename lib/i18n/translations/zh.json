@@ -11,8 +11,8 @@
     "title1": "PDF 扫描",
     "title2": "极速",
     "subtitle": "史上最快的扫描仪。几秒钟内即可扫描、签署和整理文件——全部在您的手机上完成。",
-    "appStore": "在 App Store 下载",
-    "googlePlay": "在 Google Play 获取"
+    "appStore": "iOS 下载",
+    "googlePlay": "Android 下载"
   },
   "features": {
     "sectionTitle": "一切所需，简单纯粹",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "立即免费扫描",
     "subtitle": "立即下载 PDF Scan Fast，体验最快、最简单的文件扫描、签署和整理方式。",
-    "appStore": "在 App Store 下载",
-    "googlePlay": "在 Google Play 获取"
+    "appStore": "iOS 下载",
+    "googlePlay": "Android 下载"
   },
   "articleCta": {
     "title": "免费试用 PDF Scan Fast",

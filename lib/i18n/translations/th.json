@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "สแกนเนอร์ที่เร็วที่สุดในโลก สแกน เซ็น และจัดระเบียบเอกสารในไม่กี่วินาที — ทั้งหมดจากโทรศัพท์ของคุณ",
-    "appStore": "ดาวน์โหลดบน App Store",
-    "googlePlay": "รับบน Google Play"
+    "appStore": "ดาวน์โหลดบน iOS",
+    "googlePlay": "ดาวน์โหลดบน Android"
   },
   "features": {
     "sectionTitle": "ทุกสิ่งที่คุณต้องการ ไม่มีสิ่งที่ไม่จำเป็น",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "เริ่มสแกนฟรี",
     "subtitle": "ดาวน์โหลด PDF Scan Fast วันนี้และค้นพบว่าทำไมมันถึงเป็นวิธีที่เร็วที่สุดและง่ายที่สุดในการสแกน เซ็น และจัดระเบียบเอกสารของคุณ",
-    "appStore": "ดาวน์โหลดบน App Store",
-    "googlePlay": "รับบน Google Play"
+    "appStore": "ดาวน์โหลดบน iOS",
+    "googlePlay": "ดาวน์โหลดบน Android"
   },
   "articleCta": {
     "title": "ลองใช้ PDF Scan Fast ฟรี",
