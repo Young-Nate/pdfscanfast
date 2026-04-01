@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "premium": "Premium",
+    "blog": "Blog",
+    "download": "Ücretsiz İndir",
+    "home": "Ana Sayfa"
+  },
+  "hero": {
+    "badge": "App Store'da 1 Numaralı Tarayıcı Uygulaması",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "Tüm zamanların en hızlı tarayıcısı. Belgeleri saniyeler içinde tarayın, imzalayın ve düzenleyin — hepsi telefonunuzdan.",
+    "appStore": "App Store'dan İndir",
+    "googlePlay": "Google Play'den Edin"
+  },
+  "features": {
+    "sectionTitle": "İhtiyacınız olan her şey, fazlası yok",
+    "sectionSubtitle": "Zarif bir uygulamada dört güçlü araç. Karmaşıklık yok, öğrenme eğrisi yok — sadece tarayın ve gidin.",
+    "scan": {
+      "title": "Anında Tarama",
+      "desc": "Kameranızı çevirin ve herhangi bir belgeyi 2 saniyeden kısa sürede yakalayın. Yapay zeka destekli kenar algılama ve otomatik yakalama, taramayı zahmetsiz hale getirir."
+    },
+    "sign": {
+      "title": "Elektronik İmza",
+      "desc": "Herhangi bir PDF'i birden fazla mürekkep rengiyle elektronik olarak imzalayın. İmzanızı çizin veya yazın — yasal olarak geçerli ve güzel bir şekilde işlenir."
+    },
+    "organize": {
+      "title": "Düzenli Kalın",
+      "desc": "Akıllı klasörler taramalarınızı otomatik olarak kategorize eder. OCR destekli tam metin arama ile herhangi bir belgeyi anında bulun."
+    },
+    "secure": {
+      "title": "Güvenilir ve Güvenli",
+      "desc": "Banka düzeyinde şifreleme her taramayı korur. Belgeleriniz bulut eşzamanlaması ve tüm cihazlarda otomatik yedeklemelerle güvende."
+    }
+  },
+  "premium": {
+    "badge": "Premium",
+    "title": "Tüm Gücün Kilidini Açın",
+    "subtitle": "Sınırsız tarama, bulut depolama, OCR metin çıkarma ve tamamen filigran içermeyen bir deneyim için premium olun.",
+    "cta": "Ücretsiz Denemeyi Başlat",
+    "benefits": [
+      "Sınırsız belge tarama",
+      "Bulut depolama ve cihazlar arası senkronizasyon",
+      "OCR metin çıkarma ve arama",
+      "Dışa aktarmalarda filigran yok",
+      "Öncelikli müşteri desteği"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Binlerce Kişinin Sevgilisi",
+    "sectionSubtitle": "PDF Scan Fast'e her gün güvenen 500.000'den fazla profesyonel, öğrenci ve iş sahibine katılın.",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Serbest Tasarımcı",
+        "text": "Her gün sözleşme ve fatura tarıyorum. PDF Scan Fast şimdiye kadar kullandığım en hızlı tarayıcı — otomatik yakalama neredeyse sihir gibi. Bana günde en az 30 dakika kazandırıyor."
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "Emlak Danışmanı",
+        "text": "Elektronik imza özelliği her şeyi değiştiriyor. Gösterimler sırasında yerinde belge imzalatabiliyorum. Müşterilerim bunun ne kadar profesyonel ve kolay olduğunu çok seviyor."
+      },
+      {
+        "name": "Emily Chen",
+        "role": "Yüksek Lisans Öğrencisi",
+        "text": "Tüm ders notlarımı ve araştırma makalelerimi taramak için kullanıyorum. OCR araması inanılmaz — saniyeler içinde yüzlerce sayfada herhangi bir konuyu bulabiliyorum."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ücretsiz Taramaya Başlayın",
+    "subtitle": "PDF Scan Fast'i bugün indirin ve belgeleri taramanın, imzalamanın ve düzenlemenin neden en hızlı ve en basit yolu olduğunu keşfedin.",
+    "appStore": "App Store'dan İndir",
+    "googlePlay": "Google Play'den Edin"
+  },
+  "articleCta": {
+    "title": "PDF Scan Fast'i Ücretsiz Deneyin",
+    "subtitle": "Belgelerinizi saniyeler içinde tarayın, imzalayın ve düzenleyin. iOS ve Android'de mevcut.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "En hızlı PDF tarayıcı ve elektronik imza uygulaması. Belgeleri saniyeler içinde tarayın, imzalayın ve düzenleyin.",
+    "product": "Ürün",
+    "features": "Özellikler",
+    "premium": "Premium",
+    "download": "İndir",
+    "resources": "Kaynaklar",
+    "blog": "Blog",
+    "helpCenter": "Yardım Merkezi",
+    "contact": "İletişim",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "cookies": "Çerez Politikası",
+    "copyright": "© 2026 PDF Scan Fast. Tüm hakları saklıdır.",
+    "madeWith": "Perplexity Computer ile oluşturuldu"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Belge tarama, elektronik imza ve üretkenlik hakkında ipuçları, kılavuzlar ve içgörüler.",
+    "backToHome": "Ana Sayfaya Dön",
+    "readMore": "Oku",
+    "noArticles": "Henüz makale yok. Yakında kontrol edin.",
+    "relatedArticles": "İlgili Makaleler",
+    "backToBlog": "Bloğa Dön",
+    "readArticle": "Makaleyi Oku"
+  }
+}

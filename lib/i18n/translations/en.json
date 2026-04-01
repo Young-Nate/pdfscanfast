@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "Features",
+    "premium": "Premium",
+    "blog": "Blog",
+    "download": "Download Free",
+    "home": "Home"
+  },
+  "hero": {
+    "badge": "#1 Scanner App on App Store",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "Fastest Scanner Ever. Scan, sign, and organize documents in seconds — all from your phone.",
+    "appStore": "Download on App Store",
+    "googlePlay": "Get it on Google Play"
+  },
+  "features": {
+    "sectionTitle": "Everything You Need, Nothing You Don't",
+    "sectionSubtitle": "Four powerful tools in one beautifully simple app. No bloat, no learning curve — just scan and go.",
+    "scan": {
+      "title": "Scan Instantly",
+      "desc": "Point your camera and capture any document in under 2 seconds. AI-powered edge detection and auto-capture make scanning effortless."
+    },
+    "sign": {
+      "title": "E-Sign Documents",
+      "desc": "Sign any PDF electronically with multiple ink colors. Draw your signature or type it — legally valid and beautifully rendered."
+    },
+    "organize": {
+      "title": "Stay Organized",
+      "desc": "Smart folders automatically categorize your scans. Find any document instantly with OCR-powered full-text search."
+    },
+    "secure": {
+      "title": "Reliable & Secure",
+      "desc": "Bank-level encryption protects every scan. Your documents are safe with cloud sync and automatic backups across all devices."
+    }
+  },
+  "premium": {
+    "badge": "Premium",
+    "title": "Unlock the Full Power",
+    "subtitle": "Go premium for unlimited scans, cloud storage, OCR text extraction, and a completely watermark-free experience.",
+    "cta": "Start Free Trial",
+    "benefits": [
+      "Unlimited document scans",
+      "Cloud storage & sync across devices",
+      "OCR text extraction & search",
+      "No watermarks on exports",
+      "Priority customer support"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Loved by Thousands",
+    "sectionSubtitle": "Join over 500,000 professionals, students, and business owners who trust PDF Scan Fast every day.",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Freelance Designer",
+        "text": "I scan contracts and invoices daily. PDF Scan Fast is hands down the fastest scanner I've ever used — the auto-capture is like magic. Saves me at least 30 minutes a day."
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "Real Estate Agent",
+        "text": "The e-signature feature is a game changer. I can get documents signed on the spot during showings. My clients love how professional and easy it is."
+      },
+      {
+        "name": "Emily Chen",
+        "role": "Graduate Student",
+        "text": "I use it to scan all my lecture notes and research papers. The OCR search is incredible — I can find any topic across hundreds of pages in seconds."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start Scanning for Free",
+    "subtitle": "Download PDF Scan Fast today and discover why it's the fastest, simplest way to scan, sign, and organize your documents.",
+    "appStore": "Download on App Store",
+    "googlePlay": "Get it on Google Play"
+  },
+  "articleCta": {
+    "title": "Try PDF Scan Fast Free",
+    "subtitle": "Scan, sign, and organize your documents in seconds. Available on iOS and Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "The fastest PDF scanner and e-signature app. Scan, sign, and organize documents in seconds.",
+    "product": "Product",
+    "features": "Features",
+    "premium": "Premium",
+    "download": "Download",
+    "resources": "Resources",
+    "blog": "Blog",
+    "helpCenter": "Help Center",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2026 PDF Scan Fast. All rights reserved.",
+    "madeWith": "Created with Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tips, guides, and insights on document scanning, e-signatures, and productivity.",
+    "backToHome": "Back to Home",
+    "readMore": "Read",
+    "noArticles": "No articles yet. Check back soon.",
+    "relatedArticles": "Related Articles",
+    "backToBlog": "Back to Blog",
+    "readArticle": "Read article"
+  }
+}

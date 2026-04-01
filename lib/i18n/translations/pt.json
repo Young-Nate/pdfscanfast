@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "premium": "Premium",
+    "blog": "Blog",
+    "download": "Baixar grátis",
+    "home": "Início"
+  },
+  "hero": {
+    "badge": "App de scanner nº 1 na App Store",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "O scanner mais rápido de todos os tempos. Digitalize, assine e organize documentos em segundos — tudo pelo seu celular.",
+    "appStore": "Baixar na App Store",
+    "googlePlay": "Disponível no Google Play"
+  },
+  "features": {
+    "sectionTitle": "Tudo o que você precisa, nada além disso",
+    "sectionSubtitle": "Quatro ferramentas poderosas em um aplicativo simples e elegante. Sem complicação, sem curva de aprendizado — só digitalize e pronto.",
+    "scan": {
+      "title": "Digitalização instantânea",
+      "desc": "Aponte sua câmera e capture qualquer documento em menos de 2 segundos. Detecção de bordas por IA e captura automática tornam a digitalização muito fácil."
+    },
+    "sign": {
+      "title": "Assinatura eletrônica",
+      "desc": "Assine qualquer PDF eletronicamente com várias cores de tinta. Desenhe sua assinatura ou digite-a — juridicamente válida e com acabamento impecável."
+    },
+    "organize": {
+      "title": "Mantenha-se organizado",
+      "desc": "Pastas inteligentes categorizam automaticamente suas digitalizações. Encontre qualquer documento instantaneamente com busca de texto completo por OCR."
+    },
+    "secure": {
+      "title": "Confiável e seguro",
+      "desc": "Criptografia de nível bancário protege cada digitalização. Seus documentos estão seguros com sincronização em nuvem e backups automáticos em todos os dispositivos."
+    }
+  },
+  "premium": {
+    "badge": "Premium",
+    "title": "Libere todo o potencial",
+    "subtitle": "Torne-se premium para digitalizações ilimitadas, armazenamento em nuvem, extração de texto OCR e uma experiência completamente sem marca d'água.",
+    "cta": "Iniciar teste gratuito",
+    "benefits": [
+      "Digitalizações ilimitadas de documentos",
+      "Armazenamento em nuvem e sincronização entre dispositivos",
+      "Extração e busca de texto OCR",
+      "Sem marca d'água nas exportações",
+      "Suporte ao cliente prioritário"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Amado por milhares",
+    "sectionSubtitle": "Junte-se a mais de 500.000 profissionais, estudantes e empreendedores que confiam no PDF Scan Fast todos os dias.",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Designer freelancer",
+        "text": "Digitalizo contratos e faturas diariamente. O PDF Scan Fast é, de longe, o scanner mais rápido que já usei — a captura automática é como mágica. Economizo pelo menos 30 minutos por dia."
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "Corretor de imóveis",
+        "text": "O recurso de assinatura eletrônica muda tudo. Posso obter a assinatura de documentos na hora durante as visitas. Meus clientes adoram como é profissional e fácil."
+      },
+      {
+        "name": "Emily Chen",
+        "role": "Estudante de pós-graduação",
+        "text": "Uso para digitalizar todas as minhas notas de aula e artigos de pesquisa. A busca por OCR é incrível — consigo encontrar qualquer tema em centenas de páginas em segundos."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Comece a digitalizar de graça",
+    "subtitle": "Baixe o PDF Scan Fast hoje e descubra por que é a forma mais rápida e simples de digitalizar, assinar e organizar seus documentos.",
+    "appStore": "Baixar na App Store",
+    "googlePlay": "Disponível no Google Play"
+  },
+  "articleCta": {
+    "title": "Experimente o PDF Scan Fast gratuitamente",
+    "subtitle": "Digitalize, assine e organize seus documentos em segundos. Disponível para iOS e Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "O app de digitalização de PDF e assinatura eletrônica mais rápido. Digitalize, assine e organize documentos em segundos.",
+    "product": "Produto",
+    "features": "Recursos",
+    "premium": "Premium",
+    "download": "Baixar",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "helpCenter": "Central de ajuda",
+    "contact": "Contato",
+    "legal": "Legal",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "cookies": "Política de cookies",
+    "copyright": "© 2026 PDF Scan Fast. Todos os direitos reservados.",
+    "madeWith": "Criado com Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Dicas, guias e insights sobre digitalização de documentos, assinaturas eletrônicas e produtividade.",
+    "backToHome": "Voltar ao início",
+    "readMore": "Ler",
+    "noArticles": "Nenhum artigo ainda. Volte em breve.",
+    "relatedArticles": "Artigos relacionados",
+    "backToBlog": "Voltar ao blog",
+    "readArticle": "Ler artigo"
+  }
+}

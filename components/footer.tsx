@@ -2,8 +2,15 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import type { Locale } from "@/lib/i18n/config";
+import type { Translations } from "@/lib/i18n";
 
-export function Footer() {
+interface FooterProps {
+  locale: Locale;
+  t: Translations;
+}
+
+export function Footer({ locale, t }: FooterProps) {
   return (
     <footer className="py-12 bg-[hsl(220,14%,97%)] border-t border-border/50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -20,12 +27,11 @@ export function Footer() {
               <span className="font-bold text-base">PDF Scan Fast</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              The fastest PDF scanner and e-signature app. Scan, sign, and
-              organize documents in seconds.
+              {t.footer.tagline}
             </p>
           </div>
           <div>
-            <h4 className="font-semibold text-sm mb-4">Product</h4>
+            <h4 className="font-semibold text-sm mb-4">{t.footer.product}</h4>
             <ul className="space-y-2.5">
               <li>
                 <button
@@ -36,7 +42,7 @@ export function Footer() {
                   }
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Features
+                  {t.footer.features}
                 </button>
               </li>
               <li>
@@ -48,7 +54,7 @@ export function Footer() {
                   }
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Premium
+                  {t.footer.premium}
                 </button>
               </li>
               <li>
@@ -56,20 +62,20 @@ export function Footer() {
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Download
+                  {t.footer.download}
                 </a>
               </li>
             </ul>
           </div>
           <div>
-            <h4 className="font-semibold text-sm mb-4">Resources</h4>
+            <h4 className="font-semibold text-sm mb-4">{t.footer.resources}</h4>
             <ul className="space-y-2.5">
               <li>
                 <Link
-                  href="/blog"
+                  href={`/${locale}/blog`}
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Blog
+                  {t.footer.blog}
                 </Link>
               </li>
               <li>
@@ -77,7 +83,7 @@ export function Footer() {
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Help Center
+                  {t.footer.helpCenter}
                 </a>
               </li>
               <li>
@@ -85,20 +91,20 @@ export function Footer() {
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Contact
+                  {t.footer.contact}
                 </a>
               </li>
             </ul>
           </div>
           <div>
-            <h4 className="font-semibold text-sm mb-4">Legal</h4>
+            <h4 className="font-semibold text-sm mb-4">{t.footer.legal}</h4>
             <ul className="space-y-2.5">
               <li>
                 <a
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Privacy Policy
+                  {t.footer.privacy}
                 </a>
               </li>
               <li>
@@ -106,7 +112,7 @@ export function Footer() {
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Terms of Service
+                  {t.footer.terms}
                 </a>
               </li>
               <li>
@@ -114,7 +120,7 @@ export function Footer() {
                   href="#"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Cookie Policy
+                  {t.footer.cookies}
                 </a>
               </li>
             </ul>
@@ -122,7 +128,7 @@ export function Footer() {
         </div>
         <div className="pt-8 border-t border-border/50 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-muted-foreground">
-            &copy; 2026 PDF Scan Fast. All rights reserved.
+            {t.footer.copyright}
           </p>
           <a
             href="https://www.perplexity.ai/computer"
@@ -130,7 +136,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="text-xs text-muted-foreground hover:text-foreground transition-colors"
           >
-            Created with Perplexity Computer
+            {t.footer.madeWith}
           </a>
         </div>
       </div>
@@ -138,7 +144,11 @@ export function Footer() {
   );
 }
 
-export function BlogFooter() {
+interface BlogFooterProps {
+  t: Translations;
+}
+
+export function BlogFooter({ t }: BlogFooterProps) {
   return (
     <footer className="py-10 bg-[hsl(220,14%,97%)] border-t border-border/50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
@@ -158,10 +168,10 @@ export function BlogFooter() {
           rel="noopener noreferrer"
           className="text-xs text-muted-foreground hover:text-foreground transition-colors"
         >
-          Created with Perplexity Computer
+          {t.footer.madeWith}
         </a>
         <p className="text-xs text-muted-foreground">
-          &copy; 2026 PDF Scan Fast
+          {t.footer.copyright}
         </p>
       </div>
     </footer>

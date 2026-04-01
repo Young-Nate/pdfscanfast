@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "機能",
+    "premium": "プレミアム",
+    "blog": "ブログ",
+    "download": "無料でダウンロード",
+    "home": "ホーム"
+  },
+  "hero": {
+    "badge": "App Store 第1位のスキャンアプリ",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "史上最速のスキャナー。スキャン、署名、書類整理をすべてスマートフォンから数秒で完了。",
+    "appStore": "App Store でダウンロード",
+    "googlePlay": "Google Play で入手"
+  },
+  "features": {
+    "sectionTitle": "必要なすべて、余計なものは一切なし",
+    "sectionSubtitle": "シンプルで美しいアプリに4つの強力なツールを凝縮。無駄なし、学習コストなし——スキャンして終わり。",
+    "scan": {
+      "title": "瞬時にスキャン",
+      "desc": "カメラを向けるだけで2秒以内に書類をキャプチャ。AI搭載の輪郭検出と自動撮影でスキャンをストレスフリーに。"
+    },
+    "sign": {
+      "title": "電子署名",
+      "desc": "複数のインクカラーを使ってあらゆるPDFに電子署名。手書き入力またはテキスト入力——法的に有効で美しく仕上がります。"
+    },
+    "organize": {
+      "title": "整理整頓",
+      "desc": "スマートフォルダーがスキャンを自動分類。OCR全文検索であらゆる書類を即座に発見。"
+    },
+    "secure": {
+      "title": "信頼性とセキュリティ",
+      "desc": "銀行レベルの暗号化がすべてのスキャンを保護。クラウド同期と自動バックアップですべてのデバイスにわたって書類を安全に保管。"
+    }
+  },
+  "premium": {
+    "badge": "プレミアム",
+    "title": "フル機能を解放",
+    "subtitle": "プレミアムプランで無制限スキャン、クラウドストレージ、OCRテキスト抽出、完全透かしなしの体験を。",
+    "cta": "無料トライアルを始める",
+    "benefits": [
+      "書類スキャン無制限",
+      "クラウドストレージとデバイス間同期",
+      "OCRテキスト抽出と検索",
+      "エクスポートに透かしなし",
+      "優先カスタマーサポート"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "数万人に愛用されています",
+    "sectionSubtitle": "毎日PDF Scan Fastを信頼する50万人以上のプロ、学生、ビジネスオーナーの仲間入りを。",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "フリーランスデザイナー",
+        "text": "毎日契約書や請求書をスキャンしています。PDF Scan Fastは今まで使った中で断然最速のスキャナーです——自動キャプチャはまるで魔法のよう。毎日少なくとも30分は節約できています。"
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "不動産エージェント",
+        "text": "電子署名機能は革命的です。内見中にその場で書類に署名してもらえます。プロフェッショナルで使いやすいと顧客にも大好評です。"
+      },
+      {
+        "name": "Emily Chen",
+        "role": "大学院生",
+        "text": "講義ノートや論文をすべてスキャンするのに使っています。OCR検索は信じられないほど優秀で、数百ページの中からどんなトピックも数秒で見つけられます。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "無料でスキャンを始めよう",
+    "subtitle": "今すぐPDF Scan Fastをダウンロードして、最速・最シンプルな書類スキャン・署名・整理を体験してください。",
+    "appStore": "App Store でダウンロード",
+    "googlePlay": "Google Play で入手"
+  },
+  "articleCta": {
+    "title": "PDF Scan Fastを無料で試す",
+    "subtitle": "書類のスキャン、署名、整理を数秒で。iOS・Android対応。",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "最速のPDFスキャン・電子署名アプリ。書類のスキャン、署名、整理を数秒で。",
+    "product": "製品",
+    "features": "機能",
+    "premium": "プレミアム",
+    "download": "ダウンロード",
+    "resources": "リソース",
+    "blog": "ブログ",
+    "helpCenter": "ヘルプセンター",
+    "contact": "お問い合わせ",
+    "legal": "法的事項",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "cookies": "Cookieポリシー",
+    "copyright": "© 2026 PDF Scan Fast. 全著作権所有。",
+    "madeWith": "Perplexity Computer で作成"
+  },
+  "blog": {
+    "title": "ブログ",
+    "subtitle": "書類スキャン、電子署名、生産性に関するヒント、ガイド、インサイト。",
+    "backToHome": "ホームに戻る",
+    "readMore": "読む",
+    "noArticles": "まだ記事はありません。また後でご確認ください。",
+    "relatedArticles": "関連記事",
+    "backToBlog": "ブログに戻る",
+    "readArticle": "記事を読む"
+  }
+}

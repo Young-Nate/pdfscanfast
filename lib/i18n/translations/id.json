@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "Fitur",
+    "premium": "Premium",
+    "blog": "Blog",
+    "download": "Unduh Gratis",
+    "home": "Beranda"
+  },
+  "hero": {
+    "badge": "Aplikasi Pemindai #1 di App Store",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "Pemindai tercepat yang pernah ada. Pindai, tandatangani, dan kelola dokumen dalam hitungan detik — semuanya dari ponsel Anda.",
+    "appStore": "Unduh di App Store",
+    "googlePlay": "Dapatkan di Google Play"
+  },
+  "features": {
+    "sectionTitle": "Semua yang Anda butuhkan, tanpa yang berlebihan",
+    "sectionSubtitle": "Empat alat canggih dalam satu aplikasi yang sederhana dan elegan. Tanpa kerumitan, tanpa kurva belajar — cukup pindai dan selesai.",
+    "scan": {
+      "title": "Pindai Seketika",
+      "desc": "Arahkan kamera Anda dan tangkap dokumen apa pun dalam waktu kurang dari 2 detik. Deteksi tepi bertenaga AI dan pengambilan otomatis membuat pemindaian menjadi mudah."
+    },
+    "sign": {
+      "title": "Tanda Tangan Digital",
+      "desc": "Tandatangani PDF apa pun secara elektronik dengan berbagai warna tinta. Gambar tanda tangan atau ketik — sah secara hukum dan tampil sempurna."
+    },
+    "organize": {
+      "title": "Tetap Terorganisir",
+      "desc": "Folder cerdas secara otomatis mengkategorikan hasil pemindaian Anda. Temukan dokumen apa pun secara instan dengan pencarian teks lengkap berbasis OCR."
+    },
+    "secure": {
+      "title": "Andal dan Aman",
+      "desc": "Enkripsi tingkat bank melindungi setiap pemindaian. Dokumen Anda aman dengan sinkronisasi cloud dan pencadangan otomatis di semua perangkat."
+    }
+  },
+  "premium": {
+    "badge": "Premium",
+    "title": "Buka Semua Kekuatan Penuh",
+    "subtitle": "Upgrade ke Premium untuk pemindaian tak terbatas, penyimpanan cloud, ekstraksi teks OCR, dan pengalaman tanpa tanda air.",
+    "cta": "Mulai Uji Coba Gratis",
+    "benefits": [
+      "Pemindaian dokumen tak terbatas",
+      "Penyimpanan cloud & sinkronisasi antar perangkat",
+      "Ekstraksi dan pencarian teks OCR",
+      "Tanpa tanda air pada ekspor",
+      "Dukungan pelanggan prioritas"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Dicintai Ribuan Pengguna",
+    "sectionSubtitle": "Bergabunglah dengan lebih dari 500.000 profesional, pelajar, dan pemilik bisnis yang mempercayai PDF Scan Fast setiap hari.",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Desainer Lepas",
+        "text": "Saya memindai kontrak dan faktur setiap hari. PDF Scan Fast adalah pemindai tercepat yang pernah saya gunakan — pengambilan otomatis terasa seperti sihir. Menghemat setidaknya 30 menit setiap hari."
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "Agen Properti",
+        "text": "Fitur tanda tangan elektronik benar-benar mengubah segalanya. Saya bisa mendapatkan dokumen yang ditandatangani langsung saat penayangan. Klien saya menyukai betapa profesional dan mudahnya."
+      },
+      {
+        "name": "Emily Chen",
+        "role": "Mahasiswa Pascasarjana",
+        "text": "Saya menggunakannya untuk memindai semua catatan kuliah dan makalah penelitian. Pencarian OCR-nya luar biasa — saya bisa menemukan topik apa pun di ratusan halaman dalam hitungan detik."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mulai Memindai Secara Gratis",
+    "subtitle": "Unduh PDF Scan Fast hari ini dan temukan mengapa ini adalah cara tercepat dan paling sederhana untuk memindai, menandatangani, dan mengelola dokumen Anda.",
+    "appStore": "Unduh di App Store",
+    "googlePlay": "Dapatkan di Google Play"
+  },
+  "articleCta": {
+    "title": "Coba PDF Scan Fast Gratis",
+    "subtitle": "Pindai, tandatangani, dan kelola dokumen Anda dalam hitungan detik. Tersedia di iOS dan Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Aplikasi pemindai PDF dan tanda tangan elektronik tercepat. Pindai, tandatangani, dan kelola dokumen dalam hitungan detik.",
+    "product": "Produk",
+    "features": "Fitur",
+    "premium": "Premium",
+    "download": "Unduh",
+    "resources": "Sumber Daya",
+    "blog": "Blog",
+    "helpCenter": "Pusat Bantuan",
+    "contact": "Kontak",
+    "legal": "Hukum",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat Layanan",
+    "cookies": "Kebijakan Cookie",
+    "copyright": "© 2026 PDF Scan Fast. Seluruh hak cipta dilindungi.",
+    "madeWith": "Dibuat dengan Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tips, panduan, dan wawasan tentang pemindaian dokumen, tanda tangan elektronik, dan produktivitas.",
+    "backToHome": "Kembali ke Beranda",
+    "readMore": "Baca",
+    "noArticles": "Belum ada artikel. Kunjungi kembali segera.",
+    "relatedArticles": "Artikel Terkait",
+    "backToBlog": "Kembali ke Blog",
+    "readArticle": "Baca artikel"
+  }
+}

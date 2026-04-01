@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "features": "Funzionalità",
+    "premium": "Premium",
+    "blog": "Blog",
+    "download": "Scarica gratis",
+    "home": "Home"
+  },
+  "hero": {
+    "badge": "App di scansione n°1 su App Store",
+    "title1": "PDF Scan",
+    "title2": "Fast",
+    "subtitle": "Lo scanner più veloce di sempre. Scansiona, firma e organizza documenti in pochi secondi — tutto dal tuo smartphone.",
+    "appStore": "Scarica su App Store",
+    "googlePlay": "Disponibile su Google Play"
+  },
+  "features": {
+    "sectionTitle": "Tutto ciò che ti serve, niente di superfluo",
+    "sectionSubtitle": "Quattro strumenti potenti in un'app semplice ed elegante. Zero fronzoli, zero curva di apprendimento — scansiona e vai.",
+    "scan": {
+      "title": "Scansione istantanea",
+      "desc": "Punta la fotocamera e cattura qualsiasi documento in meno di 2 secondi. Il rilevamento dei bordi basato sull'IA e l'acquisizione automatica rendono la scansione semplicissima."
+    },
+    "sign": {
+      "title": "Firma elettronica",
+      "desc": "Firma qualsiasi PDF elettronicamente con diversi colori di inchiostro. Disegna la tua firma o digitala — legalmente valida e dalla resa impeccabile."
+    },
+    "organize": {
+      "title": "Resta organizzato",
+      "desc": "Le cartelle intelligenti categorizzano automaticamente le tue scansioni. Trova qualsiasi documento all'istante con la ricerca full-text basata su OCR."
+    },
+    "secure": {
+      "title": "Affidabile e sicuro",
+      "desc": "La crittografia a livello bancario protegge ogni scansione. I tuoi documenti sono al sicuro grazie alla sincronizzazione cloud e ai backup automatici su tutti i dispositivi."
+    }
+  },
+  "premium": {
+    "badge": "Premium",
+    "title": "Sblocca tutto il potenziale",
+    "subtitle": "Passa al premium per scansioni illimitate, archiviazione cloud, estrazione testo OCR e un'esperienza completamente senza filigrana.",
+    "cta": "Inizia la prova gratuita",
+    "benefits": [
+      "Scansioni illimitate di documenti",
+      "Archiviazione cloud e sincronizzazione tra dispositivi",
+      "Estrazione e ricerca testo OCR",
+      "Nessuna filigrana sulle esportazioni",
+      "Assistenza clienti prioritaria"
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Amata da migliaia di utenti",
+    "sectionSubtitle": "Unisciti a oltre 500.000 professionisti, studenti e imprenditori che si affidano a PDF Scan Fast ogni giorno.",
+    "items": [
+      {
+        "name": "Sarah Mitchell",
+        "role": "Designer freelance",
+        "text": "Scansiono contratti e fatture ogni giorno. PDF Scan Fast è senza dubbio lo scanner più veloce che abbia mai usato — l'acquisizione automatica sembra magia. Mi fa risparmiare almeno 30 minuti al giorno."
+      },
+      {
+        "name": "James Rodriguez",
+        "role": "Agente immobiliare",
+        "text": "La funzione di firma elettronica cambia tutto. Posso far firmare i documenti sul posto durante le visite. I miei clienti adorano quanto sia professionale e semplice."
+      },
+      {
+        "name": "Emily Chen",
+        "role": "Studentessa di dottorato",
+        "text": "La uso per scansionare tutti i miei appunti e articoli di ricerca. La ricerca OCR è incredibile — riesco a trovare qualsiasi argomento in centinaia di pagine in pochi secondi."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Inizia a scansionare gratis",
+    "subtitle": "Scarica PDF Scan Fast oggi e scopri perché è il modo più veloce e semplice per scansionare, firmare e organizzare i tuoi documenti.",
+    "appStore": "Scarica su App Store",
+    "googlePlay": "Disponibile su Google Play"
+  },
+  "articleCta": {
+    "title": "Prova PDF Scan Fast gratis",
+    "subtitle": "Scansiona, firma e organizza i tuoi documenti in pochi secondi. Disponibile su iOS e Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "L'app di scansione PDF e firma elettronica più veloce. Scansiona, firma e organizza documenti in pochi secondi.",
+    "product": "Prodotto",
+    "features": "Funzionalità",
+    "premium": "Premium",
+    "download": "Scarica",
+    "resources": "Risorse",
+    "blog": "Blog",
+    "helpCenter": "Centro assistenza",
+    "contact": "Contatti",
+    "legal": "Note legali",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Informativa sui cookie",
+    "copyright": "© 2026 PDF Scan Fast. Tutti i diritti riservati.",
+    "madeWith": "Creato con Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Consigli, guide e approfondimenti sulla scansione di documenti, firme elettroniche e produttività.",
+    "backToHome": "Torna alla home",
+    "readMore": "Leggi",
+    "noArticles": "Nessun articolo ancora. Torna presto.",
+    "relatedArticles": "Articoli correlati",
+    "backToBlog": "Torna al blog",
+    "readArticle": "Leggi l'articolo"
+  }
+}
