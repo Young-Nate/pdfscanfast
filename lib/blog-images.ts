@@ -9,4 +9,5 @@ export const blogImageMap: Record<string, string> = {
   "how-to-scan-receipts-tax-season-2026": "/images/blog-scan-receipts-tax.png",
   "document-security-mobile-guide": "/images/blog-document-security.png",
   "freelancer-mobile-document-scanner": "/images/blog-freelancer-scanner.png",
+  "how-to-name-scanned-pdf-files": "/images/blog-name-scanned-files.jpg",
 };

@@ -59,7 +59,7 @@ function ArrowRight({ className }: { className?: string }) {
 }
 
 function BlogCard({ post }: { post: BlogPost }) {
-  const imageUrl = blogImageMap[post.slug];
+  const imageUrl = post.featuredImageUrl || blogImageMap[post.slug];
   return (
     <Link href={`/blog/${post.slug}`} className="group">
       <Card className="h-full border-border/50 hover:border-primary/30 transition-all duration-300 hover:shadow-md cursor-pointer overflow-hidden">

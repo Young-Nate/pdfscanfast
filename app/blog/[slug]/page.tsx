@@ -96,7 +96,7 @@ export async function generateMetadata({
   const post = await getPost(params.slug);
   if (!post) return { title: "Article Not Found" };
 
-  const imageUrl = blogImageMap[post.slug];
+  const imageUrl = post.featuredImageUrl || blogImageMap[post.slug];
 
   return {
     title: post.title,
@@ -148,7 +148,7 @@ function ArticleCTA() {
 }
 
 function RelatedPostCard({ post }: { post: BlogPost }) {
-  const imageUrl = blogImageMap[post.slug];
+  const imageUrl = post.featuredImageUrl || blogImageMap[post.slug];
   return (
     <Link href={`/blog/${post.slug}`} className="group">
       <Card className="h-full border-border/50 hover:border-primary/30 transition-all duration-300 hover:shadow-md cursor-pointer overflow-hidden">
@@ -184,7 +184,7 @@ function RelatedPostCard({ post }: { post: BlogPost }) {
 
 // JSON-LD structured data
 function ArticleJsonLd({ post }: { post: BlogPost }) {
-  const imageUrl = blogImageMap[post.slug];
+  const imageUrl = post.featuredImageUrl || blogImageMap[post.slug];
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -215,7 +215,7 @@ export default async function BlogArticlePage({
   if (!post) notFound();
 
   const relatedPosts = await getRelatedPosts(params.slug);
-  const imageUrl = blogImageMap[post.slug];
+  const imageUrl = post.featuredImageUrl || blogImageMap[post.slug];
 
   // Strip the first H1 from content (it's already shown as the title)
   const contentWithoutH1 = post.content.replace(/^#\s+.+\n+/, "");
