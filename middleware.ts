@@ -42,8 +42,10 @@ export function middleware(request: NextRequest) {
   const firstSegment = segments[0];
 
   if (firstSegment && isValidLocale(firstSegment)) {
-    // Valid locale already in path — pass through
-    return NextResponse.next();
+    // Valid locale already in path — pass through with x-pathname header
+    const response = NextResponse.next();
+    response.headers.set("x-pathname", pathname);
+    return response;
   }
 
   // Redirect to locale-prefixed path
