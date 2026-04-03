@@ -55,6 +55,7 @@ export async function generateMetadata({
     },
     metadataBase: new URL(BASE_URL),
     alternates: {
+      canonical: `${BASE_URL}${pathname}`,
       languages,
     },
     openGraph: {

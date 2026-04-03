@@ -134,6 +134,9 @@ export async function generateMetadata({
   return {
     title,
     description: excerpt,
+    alternates: {
+      canonical: `https://pdfscanfast.com/${params.locale}/blog/${params.slug}`,
+    },
     openGraph: {
       type: "article",
       title,
