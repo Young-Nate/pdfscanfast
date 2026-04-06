@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "Lo scanner più veloce di sempre. Scansiona, firma e organizza documenti in pochi secondi — tutto dal tuo smartphone.",
-    "appStore": "Scarica su iOS",
-    "googlePlay": "Disponibile su Android"
+    "appStore": "App Store (presto)",
+    "googlePlay": "Android (presto)"
   },
   "features": {
     "sectionTitle": "Tutto ciò che ti serve, niente di superfluo",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "Inizia a scansionare gratis",
     "subtitle": "Scarica PDF Scan Fast oggi e scopri perché è il modo più veloce e semplice per scansionare, firmare e organizzare i tuoi documenti.",
-    "appStore": "Scarica su iOS",
-    "googlePlay": "Disponibile su Android"
+    "appStore": "App Store (presto)",
+    "googlePlay": "Android (presto)"
   },
   "articleCta": {
     "title": "Prova PDF Scan Fast gratis",
@@ -106,5 +106,17 @@
     "relatedArticles": "Articoli correlati",
     "backToBlog": "Torna al blog",
     "readArticle": "Leggi l'articolo"
+  },
+  "waitlist": {
+    "title": "Sii il primo a saperlo",
+    "subtitle": "L'app sta arrivando. Lascia i tuoi dati e ti avviseremo non appena sarà disponibile.",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "age": "Età",
+    "email": "Indirizzo e-mail",
+    "submit": "Avvisami",
+    "success": "Sei nella lista!",
+    "successSub": "Ti invieremo un'e-mail non appena l'app sarà pronta.",
+    "error": "Qualcosa è andato storto. Riprova."
   }
 }

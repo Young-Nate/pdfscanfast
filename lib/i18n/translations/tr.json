@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "Tüm zamanların en hızlı tarayıcısı. Belgeleri saniyeler içinde tarayın, imzalayın ve düzenleyin — hepsi telefonunuzdan.",
-    "appStore": "iOS'ta İndir",
-    "googlePlay": "Android'de mevcut"
+    "appStore": "App Store (yakında)",
+    "googlePlay": "Android (yakında)"
   },
   "features": {
     "sectionTitle": "İhtiyacınız olan her şey, fazlası yok",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "Ücretsiz Taramaya Başlayın",
     "subtitle": "PDF Scan Fast'i bugün indirin ve belgeleri taramanın, imzalamanın ve düzenlemenin neden en hızlı ve en basit yolu olduğunu keşfedin.",
-    "appStore": "iOS'ta İndir",
-    "googlePlay": "Android'de mevcut"
+    "appStore": "App Store (yakında)",
+    "googlePlay": "Android (yakında)"
   },
   "articleCta": {
     "title": "PDF Scan Fast'i Ücretsiz Deneyin",
@@ -106,5 +106,17 @@
     "relatedArticles": "İlgili Makaleler",
     "backToBlog": "Bloğa Dön",
     "readArticle": "Makaleyi Oku"
+  },
+  "waitlist": {
+    "title": "İlk öğrenen siz olun",
+    "subtitle": "Uygulama yakında geliyor. Bilgilerinizi bırakın, hazır olur olmaz sizi haberdar edelim.",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "age": "Yaş",
+    "email": "E-posta adresi",
+    "submit": "Beni bilgilendir",
+    "success": "Listedesiniz!",
+    "successSub": "Uygulama hazır olduğunda size e-posta göndereceğiz.",
+    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
   }
 }

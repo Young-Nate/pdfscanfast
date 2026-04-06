@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "Pemindai tercepat yang pernah ada. Pindai, tandatangani, dan kelola dokumen dalam hitungan detik — semuanya dari ponsel Anda.",
-    "appStore": "Unduh di iOS",
-    "googlePlay": "Tersedia di Android"
+    "appStore": "App Store (segera)",
+    "googlePlay": "Android (segera)"
   },
   "features": {
     "sectionTitle": "Semua yang Anda butuhkan, tanpa yang berlebihan",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "Mulai Memindai Secara Gratis",
     "subtitle": "Unduh PDF Scan Fast hari ini dan temukan mengapa ini adalah cara tercepat dan paling sederhana untuk memindai, menandatangani, dan mengelola dokumen Anda.",
-    "appStore": "Unduh di iOS",
-    "googlePlay": "Tersedia di Android"
+    "appStore": "App Store (segera)",
+    "googlePlay": "Android (segera)"
   },
   "articleCta": {
     "title": "Coba PDF Scan Fast Gratis",
@@ -106,5 +106,17 @@
     "relatedArticles": "Artikel Terkait",
     "backToBlog": "Kembali ke Blog",
     "readArticle": "Baca artikel"
+  },
+  "waitlist": {
+    "title": "Jadilah yang pertama tahu",
+    "subtitle": "Aplikasi segera hadir. Tinggalkan info Anda dan kami akan memberi tahu Anda begitu tersedia.",
+    "firstName": "Nama depan",
+    "lastName": "Nama belakang",
+    "age": "Usia",
+    "email": "Alamat email",
+    "submit": "Beri tahu saya",
+    "success": "Anda ada di daftar!",
+    "successSub": "Kami akan mengirim email saat aplikasi siap.",
+    "error": "Terjadi kesalahan. Silakan coba lagi."
   }
 }

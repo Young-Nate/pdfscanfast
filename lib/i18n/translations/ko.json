@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "역대 가장 빠른 스캐너. 몇 초 안에 문서를 스캔하고, 서명하고, 정리하세요 — 모두 스마트폰에서.",
-    "appStore": "iOS에서 다운로드",
-    "googlePlay": "Android에서 다운로드"
+    "appStore": "App Store (출시 예정)",
+    "googlePlay": "Android (출시 예정)"
   },
   "features": {
     "sectionTitle": "필요한 모든 것, 불필요한 것은 없음",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "무료로 스캔 시작하기",
     "subtitle": "지금 PDF Scan Fast를 다운로드하고 가장 빠르고 간편하게 문서를 스캔, 서명, 정리하는 방법을 경험하세요.",
-    "appStore": "iOS에서 다운로드",
-    "googlePlay": "Android에서 다운로드"
+    "appStore": "App Store (출시 예정)",
+    "googlePlay": "Android (출시 예정)"
   },
   "articleCta": {
     "title": "PDF Scan Fast 무료 체험",
@@ -106,5 +106,17 @@
     "relatedArticles": "관련 기사",
     "backToBlog": "블로그로 돌아가기",
     "readArticle": "기사 읽기"
+  },
+  "waitlist": {
+    "title": "가장 먼저 알아보세요",
+    "subtitle": "앱이 곧 출시됩니다. 정보를 남겨주시면 준비되는 즉시 알려드리겠습니다.",
+    "firstName": "이름",
+    "lastName": "성",
+    "age": "나이",
+    "email": "이메일 주소",
+    "submit": "알림 받기",
+    "success": "목록에 등록되었습니다!",
+    "successSub": "앱이 준비되면 바로 이메일을 보내드리겠습니다.",
+    "error": "문제가 발생했습니다. 다시 시도해 주세요."
   }
 }

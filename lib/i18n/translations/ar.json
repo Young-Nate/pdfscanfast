@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "أسرع ماسح ضوئي على الإطلاق. امسح ووقّع ونظّم مستنداتك في ثوانٍ — كل ذلك من هاتفك.",
-    "appStore": "تحميل على iOS",
-    "googlePlay": "متوفر على Android"
+    "appStore": "App Store (قريباً)",
+    "googlePlay": "Android (قريباً)"
   },
   "features": {
     "sectionTitle": "كل ما تحتاجه، لا شيء زائد",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "ابدأ المسح الضوئي مجاناً",
     "subtitle": "حمّل PDF Scan Fast اليوم واكتشف لماذا هو الطريقة الأسرع والأبسط لمسح وتوقيع وتنظيم مستنداتك.",
-    "appStore": "تحميل على iOS",
-    "googlePlay": "متوفر على Android"
+    "appStore": "App Store (قريباً)",
+    "googlePlay": "Android (قريباً)"
   },
   "articleCta": {
     "title": "جرّب PDF Scan Fast مجاناً",
@@ -106,5 +106,17 @@
     "relatedArticles": "مقالات ذات صلة",
     "backToBlog": "العودة إلى المدونة",
     "readArticle": "اقرأ المقالة"
+  },
+  "waitlist": {
+    "title": "كن أول من يعلم",
+    "subtitle": "التطبيق قادم قريباً. اتركوا بياناتكم وسنعلمكم فور إتاحته.",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "age": "العمر",
+    "email": "البريد الإلكتروني",
+    "submit": "أعلمني",
+    "success": "أنت على القائمة!",
+    "successSub": "سنرسل لك بريداً إلكترونياً فور جاهزية التطبيق.",
+    "error": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
   }
 }

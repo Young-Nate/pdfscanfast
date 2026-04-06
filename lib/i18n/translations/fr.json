@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "Le scanner le plus rapide jamais créé. Scannez, signez et organisez vos documents en quelques secondes — directement depuis votre téléphone.",
-    "appStore": "Télécharger sur iOS",
-    "googlePlay": "Disponible sur Android"
+    "appStore": "App Store (bientôt)",
+    "googlePlay": "Android (bientôt)"
   },
   "features": {
     "sectionTitle": "Tout ce dont vous avez besoin, rien de superflu",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "Commencez à scanner gratuitement",
     "subtitle": "Téléchargez PDF Scan Fast dès aujourd'hui et découvrez pourquoi c'est le moyen le plus rapide et le plus simple de scanner, signer et organiser vos documents.",
-    "appStore": "Télécharger sur iOS",
-    "googlePlay": "Disponible sur Android"
+    "appStore": "App Store (bientôt)",
+    "googlePlay": "Android (bientôt)"
   },
   "articleCta": {
     "title": "Essayez PDF Scan Fast gratuitement",
@@ -106,5 +106,17 @@
     "relatedArticles": "Articles associés",
     "backToBlog": "Retour au blog",
     "readArticle": "Lire l'article"
+  },
+  "waitlist": {
+    "title": "Soyez le premier informé",
+    "subtitle": "L'app arrive bientôt. Laissez vos infos et on vous prévient dès qu'elle est disponible.",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "age": "Âge",
+    "email": "Adresse e-mail",
+    "submit": "Me notifier",
+    "success": "Vous êtes sur la liste !",
+    "successSub": "On vous envoie un e-mail dès que l'app est prête.",
+    "error": "Une erreur s'est produite. Réessayez."
   }
 }

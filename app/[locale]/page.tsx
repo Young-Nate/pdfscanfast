@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Navbar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
 import { Card, CardContent } from "@/components/ui/card";
+import { WaitlistForm } from "@/components/waitlist-form";
 import { isValidLocale } from "@/lib/i18n/config";
 import { getTranslationsSync } from "@/lib/i18n";
 import { notFound } from "next/navigation";
@@ -310,6 +311,15 @@ export default function LandingPage({
               <PlayStore className="w-5 h-5" />
               {t.cta.googlePlay}
             </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Waitlist */}
+      <section className="py-16">
+        <div className="max-w-md mx-auto px-4 sm:px-6">
+          <div className="rounded-2xl border border-border/60 bg-card p-8 shadow-sm">
+            <WaitlistForm t={t.waitlist} site="pdfscanfast" />
           </div>
         </div>
       </section>

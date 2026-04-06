@@ -11,8 +11,8 @@
     "title1": "PDF Scan",
     "title2": "Fast",
     "subtitle": "史上最速のスキャナー。スキャン、署名、書類整理をすべてスマートフォンから数秒で完了。",
-    "appStore": "iOS でダウンロード",
-    "googlePlay": "Android 版を入手"
+    "appStore": "App Store（近日公開）",
+    "googlePlay": "Android（近日公開）"
   },
   "features": {
     "sectionTitle": "必要なすべて、余計なものは一切なし",
@@ -71,8 +71,8 @@
   "cta": {
     "title": "無料でスキャンを始めよう",
     "subtitle": "今すぐPDF Scan Fastをダウンロードして、最速・最シンプルな書類スキャン・署名・整理を体験してください。",
-    "appStore": "iOS でダウンロード",
-    "googlePlay": "Android 版を入手"
+    "appStore": "App Store（近日公開）",
+    "googlePlay": "Android（近日公開）"
   },
   "articleCta": {
     "title": "PDF Scan Fastを無料で試す",
@@ -106,5 +106,17 @@
     "relatedArticles": "関連記事",
     "backToBlog": "ブログに戻る",
     "readArticle": "記事を読む"
+  },
+  "waitlist": {
+    "title": "いち早くお知らせ",
+    "subtitle": "アプリは近日公開予定です。情報を入力していただければ、準備ができ次第お知らせします。",
+    "firstName": "名前",
+    "lastName": "苗字",
+    "age": "年齢",
+    "email": "メールアドレス",
+    "submit": "通知を受け取る",
+    "success": "リストに登録されました！",
+    "successSub": "アプリの準備ができたらメールでお知らせします。",
+    "error": "エラーが発生しました。もう一度お試しください。"
   }
 }
