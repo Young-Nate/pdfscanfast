@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "pdfscanfast.vercel.app"
+        }
+      ],
+      "destination": "https://pdfscanfast.com/$1",
+      "permanent": true
+    }
+  ]
+}
