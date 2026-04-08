@@ -53,7 +53,7 @@ export function middleware(request: NextRequest) {
   const newPath = `/${locale}${pathname === "/" ? "" : pathname}`;
   const url = request.nextUrl.clone();
   url.pathname = newPath;
-  return NextResponse.redirect(url);
+  return NextResponse.redirect(url, { status: 301 });
 }
 
 export const config = {
