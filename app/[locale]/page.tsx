@@ -125,18 +125,27 @@ export default function LandingPage({
               </p>
               <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
                 <a
-                  href="#"
+                  href="https://testflight.apple.com/join/BnjPWdYZ"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
                 >
                   <Apple className="w-5 h-5" />
                   {t.hero.appStore}
+                  <span className="ml-1 inline-flex items-center rounded-full bg-white/20 text-white text-[10px] font-bold uppercase tracking-wider px-2 py-0.5">
+                    Beta
+                  </span>
                 </a>
                 <a
                   href="#"
-                  className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold border border-input bg-background hover:bg-accent hover:text-accent-foreground transition-colors"
+                  aria-disabled="true"
+                  className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold border border-input bg-background text-muted-foreground cursor-not-allowed opacity-60"
                 >
                   <PlayStore className="w-5 h-5" />
                   {t.hero.googlePlay}
+                  <span className="ml-1 inline-flex items-center rounded-full bg-muted text-muted-foreground text-[10px] font-bold uppercase tracking-wider px-2 py-0.5">
+                    Soon
+                  </span>
                 </a>
               </div>
             </div>
@@ -298,18 +307,27 @@ export default function LandingPage({
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#"
+              href="https://testflight.apple.com/join/BnjPWdYZ"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold bg-white text-primary hover:bg-white/90 transition-colors"
             >
               <Apple className="w-5 h-5" />
               {t.cta.appStore}
+              <span className="ml-1 inline-flex items-center rounded-full bg-primary/10 text-primary text-[10px] font-bold uppercase tracking-wider px-2 py-0.5">
+                Beta
+              </span>
             </a>
             <a
               href="#"
-              className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold bg-white/15 text-white hover:bg-white/25 border border-white/20 transition-colors"
+              aria-disabled="true"
+              className="inline-flex items-center justify-center gap-2 rounded-full h-12 px-6 text-base font-semibold bg-white/10 text-white/70 border border-white/20 cursor-not-allowed opacity-70"
             >
               <PlayStore className="w-5 h-5" />
               {t.cta.googlePlay}
+              <span className="ml-1 inline-flex items-center rounded-full bg-white/20 text-white/90 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5">
+                Soon
+              </span>
             </a>
           </div>
         </div>
