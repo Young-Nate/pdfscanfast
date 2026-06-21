@@ -41,7 +41,7 @@ export default function ContactPage({
 
   return (
     <>
-      <BlogNav locale={locale as Locale} t={t.nav} />
+      <BlogNav locale={locale as Locale} t={t} />
 
       <main className="min-h-[calc(100vh-200px)] py-16 sm:py-24">
         <div className="max-w-2xl mx-auto px-4 sm:px-6">
@@ -85,7 +85,7 @@ export default function ContactPage({
         </div>
       </main>
 
-      <BlogFooter locale={locale as Locale} t={t.footer} />
+      <BlogFooter t={t} />
     </>
   );
 }
